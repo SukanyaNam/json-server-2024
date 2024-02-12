@@ -1,0 +1,98 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "fname": "Mark ",
+            "lname": "Zuckerberg",
+            "email": "mark@gmail.com",
+            "password": "12345678",
+            "password_confirmation": "12345678",
+            "phone": "0954721021",
+            "address": "USA"
+        },
+        {
+            "id": 2,
+            "fname": "Elon ",
+            "lname": "Musk",
+            "email": "elon@gmail.com",
+            "password": "12345678",
+            "password_confirmation": "12345678",
+            "phone": "0254052574",
+            "address": "USA"
+        },
+        {
+            "id": 3,
+            "fname": "Bill",
+            "lname": "Gate",
+            "email": "bill@gmail.com",
+            "password": "12345678",
+            "password_confirmation": "12345678",
+            "phone": "4689656797",
+            "address": "USA"
+        },
+        {
+            "id": 4,
+            "fname": "Jeff",
+            "lname": "Beszos",
+            "email": "jeff@gmail.com",
+            "password": "12345678",
+            "password_confirmation": "12345678",
+            "phone": "0467979746",
+            "address": "USA"
+        },
+        {
+            "id": 5,
+            "fname": "Jack",
+            "lname": "ma",
+            "email": "jack@gmail.com",
+            "password": "12345678",
+            "password_confirmation": "12345678",
+            "phone": "7878787879",
+            "address": "china"
+        }
+    ],
+    "Vietnam": [
+        {
+            "id": 1,
+            "name": "Dragon Bridge",
+            "location": "Dragon Bridge, Vietnam",
+            "imageUrl": "https://i.pinimg.com/564x/45/d4/6c/45d46c617a58bd61b25569b4dd74a79c.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Danang Cathedral",
+            "location": "Danang Cathedral, Vietnam",
+            "imageUrl": "https://i.pinimg.com/564x/ad/fc/4d/adfc4dd9d8b4b5a6ad3de66804c4126f.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Han Market",
+            "location": "Han Market, Vietnam",
+            "imageUrl": "https://i.pinimg.com/564x/e7/e5/0d/e7e50d50756ab8628d218ef46e6fd528.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Linh Ung Temple",
+            "location": "Linh Ung Temple, Vietnam",
+            "imageUrl": "https://i.pinimg.com/564x/5f/01/07/5f0107f31c0f85d7965ba3f7a0a85ffa.jpg"
+        },
+        {
+            "id": 5,
+            "name": "My Khy Beach",
+            "location": "My Khy Beach, Vietnam",
+            "imageUrl": "https://i.pinimg.com/564x/ad/db/1e/addb1e6bf45cefa4cdb192321353dae9.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Marble Mountain",
+            "location": "Marble Mountain, Vietnam",
+            "imageUrl": "https://i.pinimg.com/564x/a7/26/fd/a726fd1ee100aa7adea0601f8b30bb5c.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Bana Hills",
+            "location": "Bana Hills, Vietnam",
+            "imageUrl": "https://i.pinimg.com/564x/02/84/03/0284034b0e289e0e94004dd8fc6431a3.jpg"
+        }
+    ]
+}
